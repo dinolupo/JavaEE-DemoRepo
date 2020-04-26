@@ -45,7 +45,7 @@ http://127.0.0.1:8080/ws1/resources/cache
 Do the same with the **ws2** and verify that the cached keys mantain the isolation between the web services.
 
 
-## Example 2 - Class loader isolation betweeen Web Services
+## Example 2 - Demo for Swagger service descriptor generator
 
 Language: **Java**
 
